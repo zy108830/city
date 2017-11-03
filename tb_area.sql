@@ -3537,5 +3537,8 @@ INSERT INTO `tb_area` VALUES ('659002', '阿拉尔市', '2', '659000');
 INSERT INTO `tb_area` VALUES ('659003', '图木舒克市', '2', '659000');
 INSERT INTO `tb_area` VALUES ('659004', '五家渠市', '2', '659000');
 INSERT INTO `tb_area` VALUES ('710000', '台湾省', '0', '0');
+INSERT INTO `tb_area` VALUES ('710001', '台湾', '1', '710000');
 INSERT INTO `tb_area` VALUES ('810000', '香港特别行政区', '0', '0');
+INSERT INTO `tb_area` VALUES ('810001', '香港', '1', '810000');
 INSERT INTO `tb_area` VALUES ('910000', '澳门特别行政区', '0', '0');
+INSERT INTO `tb_area` VALUES ('910001', '澳门', '1', '910000');
